@@ -1,7 +1,6 @@
 # google-calendar-api
 
 Codechef and Codeforces have a google calendar for their contests,
-
 however Atcoder doesn't have one.
 
 (Actually they have, but they dont't update it regularly).
