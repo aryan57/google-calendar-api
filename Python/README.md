@@ -10,9 +10,9 @@ Steps :
 6) Add the Calendar Id in the code.
 
 > Run these 3 coomands in Command Prompt.
->> pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
->> pip3 install request
->> pip3 install datetime
+>> pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib\
+>> pip3 install request\
+>> pip3 install datetime\
 
 Tip : 
 You can use tmux to run it 24x7 on virtual machines.
