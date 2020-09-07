@@ -1,2 +1,2 @@
 # google-calendar-api
-Google Calendar for Programming Contests
+I used Google Calendar API to update my google calendar for the Programming Contests in (atcoder.jp).
