@@ -8,10 +8,10 @@ Steps :
 4) Download the key of Service Account in JSON format and save it in the project folder as 'service-account.json' .
 5) Share the Google Calendar with the  service account email id with edit access for the calendar.
 6) Add the Calendar Id in the code.
-7) Run these 3 coomands in Command Prompt.
-    a) pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-    b) pip3 install request
-    c) pip3 install datetime
+7)> Run these 3 coomands in Command Prompt.
+>>a) pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+>>b) pip3 install request
+>>c) pip3 install datetime
 
 Tip : 
 You can use tmux to run it 24x7 on virtual machines.
