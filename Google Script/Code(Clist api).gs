@@ -1,7 +1,7 @@
 function myFunction() {
 
   // clist apikey, username, and resources name
-  var USER_NAME = 'aryan57';
+  var USER_NAME = '---';
   var API_KEY = '---';
   var RESOURCES = ["codingcompetitions.withgoogle.com", "leetcode.com", "facebook.com/hackercup", "codeforces.com", "codechef.com", "atcoder.jp"];
 
