@@ -122,7 +122,7 @@ function myFunction() {
       }
     }catch(e)
     {
-      consol.log("Error in getting constests from clist API.")
+      console.log("Error in getting constests from clist API.")
     }
 
   }
