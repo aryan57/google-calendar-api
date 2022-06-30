@@ -1,5 +1,5 @@
-This API Google Calendar is made using Google Script . \
-I used Google Apps Script for this.
+This script is written in Google Apps Script and uses clist.by api. \
+It will automatically add any contests/events from sites like, codeforces, google coding competitions,etc., in the prescribed google calendar
 
 Steps : 
 1) Make a new script in script.google.com
